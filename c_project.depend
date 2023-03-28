@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1680035302 source:c:\users\hp\downloads\01-hello c programming\c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	"project.h"
+
+1680035303 c:\users\hp\downloads\01-hello c programming\c_project\project.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	<inttypes.h>
+
+1680035303 source:c:\users\hp\downloads\01-hello c programming\c_project\project.c
+	"project.h"
+
